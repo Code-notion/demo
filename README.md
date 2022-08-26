@@ -1,2 +1,5 @@
-Please check the application on
-[PWA Demo App]([https://github.com/user/repo/blob/branch/other_file.md](https://react-pwa-sni.netlify.app/))
+# Demo PWA Project
+This is demo project to showcase PWA with react.
+
+## URL
+    * <a href="https://react-pwa-sni.netlify.app/">Live Demo/</a>
